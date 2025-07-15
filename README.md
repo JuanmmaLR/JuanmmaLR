@@ -2,6 +2,8 @@
 
 <a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/user-attachments/assets/873bdd81-e77d-4e12-bf0c-91ed588727d4"/></a>
 
+<hr>
+
 <pre>
 💻 Me estoy especializando como desarrollador Frontend, siempre atento a las nuevas tecnologías y en constante aprendizaje.
 📚 Soy egresado de la carrera de Analista Programador.
