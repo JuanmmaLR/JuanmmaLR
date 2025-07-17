@@ -17,7 +17,7 @@
 
 <div>
 
-  ## 🛠️ &nbsp;Conocimientos Tecnologicos
+  # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
   ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -34,3 +34,17 @@
   ![Ionic](https://img.shields.io/badge/-Ionic-0D1117?style=flat&logo=Ionic)&nbsp;
 
 </div>
+<hr>
+<div>
+### 🤝🏻 &nbsp;Contactate conmigo 
+</div>
+
+<p align="center">
+<a href="www.linkedin.com/in/juan-emmanuel-lazo-reyes-61b492177" target="_blank">
+  <img align="center" alt="Stefanos Stamoulis | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:juan.lazoreyes@gmail.com" >
+  <img align="center" alt="Stefanos Stamoulis | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<p>
+
