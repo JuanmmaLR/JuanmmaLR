@@ -1,6 +1,6 @@
 <h1 align="center"> Holaaa!! 👋, Soy Juanmma</h1>
 
-<a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/user-attachments/assets/873bdd81-e77d-4e12-bf0c-91ed588727d4"/></a>
+<img width="1536" height="1024" alt="Portada" src="https://github.com/user-attachments/assets/737a77dc-798b-45db-82ff-b31d0c599f9d" />
 
 <hr>
 
