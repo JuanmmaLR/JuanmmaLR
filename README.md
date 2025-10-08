@@ -1,4 +1,11 @@
-<h1 align="center"> Holaaa!! 👋, Soy Juanmma</h1>
+<h1 align="center">
+  👨‍💻 ¡Hola Mundo! 👨‍💻
+ <br/>
+  <span style="color: #ff6b6b; font-family: 'Arial Rounded MT Bold', sans-serif; font-size: 2em;">
+    <img src="https://img.icons8.com/color/48/000000/programming.png" width="40" height="40"/>Soy Juanmma<img src="https://img.icons8.com/color/48/000000/programming.png" width="40" height="40"/>
+  </span>
+</h1>
+
  <img width="1024" height="441" alt="Portada2" src="https://github.com/user-attachments/assets/0af8d268-6300-432e-9fd9-62993c830bb6" />
 <hr>
 
