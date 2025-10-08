@@ -1,7 +1,5 @@
 <h1 align="center"> Holaaa!! 👋, Soy Juanmma</h1>
-
-<img width="1536" height="1024" alt="Portada" src="https://github.com/user-attachments/assets/737a77dc-798b-45db-82ff-b31d0c599f9d" />
-
+<img width="1024" height="1024" alt="Portada2" src="https://github.com/user-attachments/assets/f3e679c3-8ba7-4c19-bb30-f302741e3b24" />
 <hr>
 
 <pre>
