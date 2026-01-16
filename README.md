@@ -2,11 +2,11 @@
   👨‍💻 ¡Hola Mundo! 👨‍💻
  <br/>
   <span style="color: #ff6b6b; font-family: 'Arial Rounded MT Bold', sans-serif; font-size: 2em;">
-    <img width="2659" height="1440" alt="Logo_01" src="https://github.com/user-attachments/assets/0530cc00-c2d9-4bdc-a22a-c7897711eab4" />
+    
   </span>
 </h1>
 
- <img width="1024" height="441" alt="Portada2" src="https://github.com/user-attachments/assets/0af8d268-6300-432e-9fd9-62993c830bb6" />
+ <img width="2659" height="1440" alt="Logo_01" src="https://github.com/user-attachments/assets/0530cc00-c2d9-4bdc-a22a-c7897711eab4" />
 <hr>
 
 <pre>
