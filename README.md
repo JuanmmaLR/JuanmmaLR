@@ -2,7 +2,7 @@
   👨‍💻 ¡Hola Mundo! 👨‍💻
  <br/>
   <span style="color: #ff6b6b; font-family: 'Arial Rounded MT Bold', sans-serif; font-size: 2em;">
-    <img src="https://img.icons8.com/color/48/000000/programming.png" width="40" height="40"/>Soy Juanmma<img src="https://img.icons8.com/color/48/000000/programming.png" width="40" height="40"/>
+    <img width="2659" height="1440" alt="Logo_01" src="https://github.com/user-attachments/assets/0530cc00-c2d9-4bdc-a22a-c7897711eab4" />
   </span>
 </h1>
 
